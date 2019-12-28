@@ -1,0 +1,47 @@
+# NextDNS CNAME Cloaking Blocklist
+#
+# https://github.com/nextdns/cname-cloaking-blocklist
+#
+# Important: For this list to work at all, the blocking logic needs to
+# wildcard match (domain and all its multi-level subdomains) CNAMEs
+# against the domains in this list.
+
+# Eulerian
+eulerian.net
+
+# AT Internet (formerly XiTi)
+at-o.net
+
+# Keyade
+k.keyade.com
+
+# Adobe Experience Cloud (formerly Omniture)
+2o7.net
+sc.omtrdc.net
+
+# Criteo
+storetail.io
+dnsdelegation.io
+
+# Commanders Act
+tagcommander.com
+
+# Wizaly
+wizaly.com
+
+# TraceDock
+a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
+afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
+
+# Ingenious Technologies
+affex.org
+
+# intent (intent.com)
+partner.intentmedia.net
+
+# Webtrekk
+webtrekk.net
+wt-eu02.net
+
+# Otto Group
+oghub.io
