@@ -563,7 +563,7 @@
 0.0.0.0 xx-fbcdn-shv-04-prn2.fbcdn.net
 0.0.0.0 z-1-scontent-sjc2-1.xx.fbcdn.net
 0.0.0.0 z-1-scontent.xx.fbcdn.net
-0.0.0.0 api.instagram.com
+# 0.0.0.0 api.instagram.com
 0.0.0.0 black.ish.instagram.com
 0.0.0.0 i.instagram.com
 0.0.0.0 instagram-shv-01-ams2.fbcdn.net
